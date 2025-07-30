@@ -39,7 +39,7 @@ export default function contact() {
                </div>
            </div>
             
-            <form className=' flex flex-col gap-10  text-[var(--text)] bg-[var(--card-bg)] px-7 w-[33rem] py-2 rounded-2xl'>
+            <form className=' flex flex-col gap-10  text-[var(--text)] bg-[var(--card-bg)] px-7 w-[27rem] py-2 rounded-2xl'>
                <h2 className='text-2xl  font-semibold mt-3' >
                   Feedback
                </h2>
